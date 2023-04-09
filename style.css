@@ -145,6 +145,10 @@ body {
   opacity: 1;
 }
 
+h1 {
+  text-align: center;
+}
+
 .thumbs-up-img,
 .tablet-img,
 .sliders-img {
