@@ -149,11 +149,24 @@ h1 {
   text-align: center;
 }
 
+.main section {
+  padding-top: 30px;
+}
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .thumbs-up-img,
 .tablet-img,
 .sliders-img {
-  width: 50px;
   fill: #257e26;
+  margin: 50px;
+  width: 50px;
+}
+.sliders-img {
+  width: 20px;
 }
 
 .footer-line {
